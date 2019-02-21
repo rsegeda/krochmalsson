@@ -1,6 +1,8 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Lewis Lane
+Copyright (c) 2015 Lewis Lane - Phaser 2 version
+Modified by [sebashwa](https://github.com/sebashwa) - Phaser 3 version
+Modified by Roman Segeda (2019) - Phaser 3 version + TypeScript definitions
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
