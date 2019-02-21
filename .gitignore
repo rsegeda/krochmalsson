@@ -1,0 +1,15 @@
+#OSX
+#-------------------------------------------------------------------------------
+.DS_STORE
+
+
+#General
+#-------------------------------------------------------------------------------
+build
+node_modules
+*.tsx
+/.idea/
+styles/css/*
+yarn-error.log
+phaser-isometric/phaser-isometric.iml
+
