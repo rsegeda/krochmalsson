@@ -1,6 +1,6 @@
 # Krochmalsson project
 
-Isometric Phaser 3 Typescript Game
+Isometric Phaser 3 TypeScript Game with Isometric Plugin
 
 Progress status: In early stage development
 
