@@ -2,15 +2,13 @@
 
 Isometric Phaser 3 TypeScript Game with Isometric Plugin
 
-Progress status: In early stage development
+This repository already contains the compiled version of phaser-isometric.d.ts. If you want to override it, just use the commands below.
 
 To make it work run:
 
 ```npm i && npm run build```
 
 lib/phaser-isometric.d.ts is the file you have been looking for
-
-contains module with phaser-isometric with d.ts file used in the current project.
 
 Based on the work done by:
 * [digitalsensitive](https://github.com/digitsensitive),
