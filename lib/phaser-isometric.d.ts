@@ -398,7 +398,7 @@ declare class Octree {
      * @property {Object[]} [objects] - Array of octree children.
      */
     objects: {
-        objects?: any[];
+        objects?: object[];
     };
     /**
      * @property {Octree[]} [nodes] - Array of associated child nodes.
@@ -467,7 +467,7 @@ declare class Octree {
      */
     retrieve(source: {
         body: Body;
-    }): any[];
+    }): object[];
     /**
      * Clear the octree.
      * @method Octree#clear

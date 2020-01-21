@@ -31,9 +31,8 @@
     "phaser-isometric": "1.0.0"
   },
   "scripts": {
-    "dev": "webpack --mode development && webpack-dev-server --mode development",
-    "build": "webpack --mode production && webpack-dev-server --mode production",
-    "update:isometric-types": "yarn --cwd phaser-isometric/ jsdoc && cp phaser-isometric/out/phaser-isometric.d.ts lib/ && rm -rf phaser-isometric/out && npm link phaser-isometric/"
+    "preinstall": "cd phaser-isometric && npm i && cd .. && npm link phaser-isometric/",
+    "build": "npm --prefix phaser-isometric/ run jsdoc && cp phaser-isometric/out/phaser-isometric.d.ts lib/ && rm -rf phaser-isometric/out"
   },
   "repository": {
     "type": "git",

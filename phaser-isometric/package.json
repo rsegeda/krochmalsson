@@ -7,6 +7,7 @@
     "tsd-jsdoc": "^2.1.2"
   },
   "devDependencies": {
+    "jsdoc": "^3.6.3",
     "webpack": "4.41.5",
     "webpack-cli": "3.3.10",
     "webpack-dev-server": "3.1.14"
