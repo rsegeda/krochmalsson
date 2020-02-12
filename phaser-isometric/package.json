@@ -9,7 +9,7 @@
   "devDependencies": {
     "jsdoc": "^3.6.3",
     "webpack": "4.41.6",
-    "webpack-cli": "3.3.10",
+    "webpack-cli": "3.3.11",
     "webpack-dev-server": "3.10.3"
   },
   "scripts": {
