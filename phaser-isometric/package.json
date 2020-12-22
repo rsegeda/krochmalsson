@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "jsdoc-export-default-interop": "^0.3.1",
-    "phaser": "3.24.1",
+    "phaser": "3.50.1",
     "tsd-jsdoc": "^2.5.0"
   },
   "devDependencies": {
