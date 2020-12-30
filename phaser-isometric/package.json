@@ -10,7 +10,7 @@
     "jsdoc": "^3.6.5",
     "webpack": "4.44.1",
     "webpack-cli": "3.3.11",
-    "webpack-dev-server": "3.11.0"
+    "webpack-dev-server": "3.11.1"
   },
   "scripts": {
     "jsdoc": "jsdoc -c jsdoc.conf.json -P ./package.json src/isometric"
